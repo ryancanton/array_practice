@@ -15,3 +15,7 @@ many_floats.unshift(0.0)
 
 many_booleans.push(true)
 #adds argument to end of array and returns new array
+
+
+#The first index in an array with n elements is 0.
+#The final index in an array with n elements is n-1.
