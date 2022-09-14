@@ -19,3 +19,7 @@ many_booleans.push(true)
 
 #The first index in an array with n elements is 0.
 #The final index in an array with n elements is n-1.
+
+
+many_strings.insert(3, "odog")
+#The insert method will add the element at the specified index.
